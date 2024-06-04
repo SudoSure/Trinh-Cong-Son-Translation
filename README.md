@@ -533,6 +533,10 @@ And hope to forget
 
 The affairs of my country
 
+<div style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_South_Vietnam.svg/2000px-Flag_of_South_Vietnam.svg.png" alt="Trịnh Công Sơn" style="width:50%;">
+  <p style="font-size: 0.9em; color: #555;">South Vietnam Flag</p>
+</div>
 
 ### Works Cited
 
