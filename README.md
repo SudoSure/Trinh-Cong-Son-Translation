@@ -30,6 +30,9 @@ Nghe lá thu mưa reo mòn gót nhỏ
 
 Đường dài hun hút cho mắt thêm sâu
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Mưa vẫn hay mưa trên hàng lá nhỏ
 
@@ -39,6 +42,9 @@ Trên bước chân em âm thầm lá đổ
 
 Chợt hồn xanh buốt cho mình xót xa
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Chiều này còn mưa sao em không lại
 
@@ -48,6 +54,9 @@ Làm sao có nhau, hằn lên nỗi đau
 
 Bước chân em xin về mau
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Mưa vẫn hay mưa cho đời biển động
 
@@ -57,6 +66,9 @@ Xin hãy cho mưa qua miền đất rộng
 
 Để người phiêu lãng quên mình lãng du
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Mưa vẫn hay mưa cho đời biển động
 
@@ -66,6 +78,9 @@ Xin hãy cho mưa qua miền đất rộng
 
 Ngày sau sỏi đá cũng cần có nhau
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 ### Translation: Song for Diễm
 
@@ -77,6 +92,9 @@ A rain of leaves rustles your small heels
 
 Eyes that deepen as the long road winds
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Rain still falling on rows of small leaves
 
@@ -86,6 +104,9 @@ Over your footsteps the silent leaves pour
 
 Then suddenly grief like white ice
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Still raining tonight why won’t you return
 
@@ -95,6 +116,9 @@ How to be with each other, pain raised in relief
 
 Won’t your footsteps please hurry home
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Rain still falling makes a storm of my soul
 
@@ -104,6 +128,9 @@ Please pass the rain over these broad open places
 
 And let a wanderer forget his wandering
 
+<p style="margin-bottom: 20px;">
+
+</p>
 
 Rain still falling makes a storm of my soul
 
