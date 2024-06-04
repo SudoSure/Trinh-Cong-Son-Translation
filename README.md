@@ -365,7 +365,7 @@ Submerged in the rain
 
 
 <div style="text-align: center;">
-  <img src="https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/26/117394.jpg" alt="Vietnam Country Side" style="width:50%;">
+  <img src="https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/26/117394.jpg" alt="Vietnam Country Side" style="width:75%;">
 </div>
 
 ### Tôi Sẽ Đi Thăm by Trịnh Công Sơn
