@@ -10,7 +10,7 @@ Some of Trịnh Công Sơn's most iconic and influential songs include "Diễm X
 
 ### Diễm Xưa by Trịnh Công Sơn 
 
-#### Sung by Khánh Ly: https://www.youtube.com/watch?v=kmPPsHhcRpg&ab_channel=KhanhLy-Topic
+#### Sung by Khánh Ly: [Watch on YouTube](https://www.youtube.com/watch?v=kmPPsHhcRpg&ab_channel=KhanhLy-Topic)
 
 Mưa vẫn mưa bay trên tầng tháp cổ
 
@@ -106,7 +106,7 @@ Soon even these stones will need each other
 
 ### Tình Nhớ by Trịnh Công Sơn
 
-#### Sung by Khánh Ly: https://www.youtube.com/watch?v=6Wuj66uKCtU&ab_channel=CaS%C4%A9Kh%C3%A1nhLy
+#### Sung by Khánh Ly: [Watch on YouTube](https://www.youtube.com/watch?v=6Wuj66uKCtU&ab_channel=CaS%C4%A9Kh%C3%A1nhLy)
 
 Tình ngỡ đã quên đi
 
@@ -355,7 +355,7 @@ Submerged in the rain
 
 ### Tôi Sẽ Đi Thăm by Trịnh Công Sơn
 
-#### Sung by Khánh Ly: https://www.youtube.com/watch?v=BkomuyQLSOQ&ab_channel=CaS%C4%A9Kh%C3%A1nhLy
+#### Sung by Khánh Ly: [Watch on YouTube](https://www.youtube.com/watch?v=BkomuyQLSOQ&ab_channel=CaS%C4%A9Kh%C3%A1nhLy)
 
 Khi đất nước tôi thanh bình
 
