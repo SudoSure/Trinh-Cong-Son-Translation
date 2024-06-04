@@ -112,7 +112,7 @@ Please pass the rain over these broad open places
 Soon even these stones will need each other
 
 <div style="text-align: center;">
-  <img src="https://i.etsystatic.com/17964381/r/il/7084b9/4016444496/il_1080xN.4016444496_14t3.jpg" alt="Traditional Clothing" style="width:50%;">
+  <img src="https://marknvy.com/cdn/shop/products/custom-ao-dai-vietnamese-traditional-dress-in-burgundy-silk-with-stunning-embroidered-floral-motif-28991393235094.jpg?v=1621149192" alt="Traditional Clothing" style="width:50%;">
 </div>
 
 ### Tình Nhớ by Trịnh Công Sơn
