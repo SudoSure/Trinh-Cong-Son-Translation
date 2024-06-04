@@ -113,6 +113,7 @@ Soon even these stones will need each other
 
 <div style="text-align: center;">
   <img src="https://i.etsystatic.com/17964381/r/il/7084b9/4016444496/il_1080xN.4016444496_14t3.jpg" alt="Traditional Clothing" style="width:50%;">
+</div>
 
 ### Tình Nhớ by Trịnh Công Sơn
 
